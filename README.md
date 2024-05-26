@@ -1,4 +1,4 @@
-# notes
+# Notes
 The project gathers all the recorded notes from the Parma API using Ruby.
 
 # Important links
